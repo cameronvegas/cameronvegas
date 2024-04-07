@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cam!</h1>
 <h3 align="center">A passionate information security analyst and engineer.</h3>
 
-- 🔭 I’m currently working on **ELK SIEM deployment package.**
+- 🔭 I’m currently working on an **ELK SIEM deployment package.**
 
 - 🌱 I’m currently learning **JavaScript and Web Development.**
 
